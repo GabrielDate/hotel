@@ -13,6 +13,7 @@
         android:layout_height="300dp"
         android:layout_marginTop="25dp"
         android:src="@drawable/logo" />
+
     <EditText
         android:id="@+id/edtUsuario"
         android:layout_width="match_parent"
@@ -23,14 +24,6 @@
         android:maxLength="50"
         android:padding="10dp" />
 
-
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="5dp"
-        android:text="@string/entrar"
-
-        />
     <EditText
         android:id="@+id/edtSenha"
         android:layout_width="match_parent"
@@ -40,6 +33,14 @@
         android:inputType="textEmailAddress"
         android:maxLength="50"
         android:padding="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/entrar"
+
+        />
 
 
     <Button
