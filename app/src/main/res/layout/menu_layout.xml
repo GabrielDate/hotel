@@ -23,7 +23,16 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
 
+
             >
+
+            <TextView
+                android:layout_width="185dp"
+                android:layout_height="100dp"
+                android:layout_alignParentRight="true"
+                android:text="Venha aproveitar o melhor do carnaval de pernambuco! blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá">
+
+            </TextView>
 
             <Button
                 android:layout_width="wrap_content"
@@ -58,6 +67,14 @@
 
             >
 
+            <TextView
+                android:layout_width="185dp"
+                android:layout_height="100dp"
+                android:layout_alignParentRight="true"
+                android:text="Venha aproveitar o melhor do carnaval da bahia! blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá">
+
+            </TextView>
+
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -90,6 +107,14 @@
             android:layout_height="match_parent"
 
             >
+
+            <TextView
+                android:layout_width="185dp"
+                android:layout_height="100dp"
+                android:layout_alignParentRight="true"
+                android:text="Venha aproveitar o melhor do carnaval do RIO! blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá blábláblá">
+
+            </TextView>
 
             <Button
                 android:layout_width="wrap_content"
