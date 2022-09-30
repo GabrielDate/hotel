@@ -18,6 +18,25 @@
             android:layout_height="190dp"
             android:scaleType="centerCrop"
             android:src="@drawable/pernanbuco" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:text="RESERVE">
+
+            </Button>
+
+
+        </RelativeLayout>
+
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -26,11 +45,30 @@
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp">
 
+
         <ImageView
             android:layout_width="190dp"
             android:layout_height="190dp"
             android:scaleType="centerCrop"
             android:src="@drawable/bahia" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:text="RESERVE">
+
+            </Button>
+
+
+        </RelativeLayout>
 
     </androidx.cardview.widget.CardView>
 
@@ -46,6 +84,24 @@
             android:layout_height="190dp"
             android:scaleType="centerCrop"
             android:src="@drawable/riodejaneiro" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:text="RESERVE">
+
+            </Button>
+
+
+        </RelativeLayout>
 
     </androidx.cardview.widget.CardView>
 
